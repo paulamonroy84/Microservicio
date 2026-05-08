@@ -1,0 +1,13 @@
+{
+    "GASES DEL ORINOCO": {
+        "Incidente técnico": "Alta",
+        "Consulta": "Baja",
+        "Solicitud administrativa": "Media"
+    },
+
+    "BANCO XYZ": {
+        "Fraude": "Alta",
+        "Bloqueo tarjeta": "Alta",
+        "PQRS": "Media"
+    }
+}
